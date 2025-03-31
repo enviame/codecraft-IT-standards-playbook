@@ -62,7 +62,7 @@ Applies to all teams developing services using Python (Flask) and Node.js (Expre
 
 - **Developers:** Ensure each new feature or refactor aligns with Clean Architecture.  
 - **Code Reviewers:** Reject PRs with misplaced logic (e.g., business logic in infrastructure).  
-- **Tech Leads:** Oversee compliance, guide refactors, and ensure cross-team consistency.
+- **Engineering Manager:** Oversee compliance, guide refactors, and ensure cross-team consistency.
 
 ---
 

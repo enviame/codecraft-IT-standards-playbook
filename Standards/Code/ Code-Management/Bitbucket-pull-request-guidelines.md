@@ -110,7 +110,7 @@ This refactor would improve performance, but it's too risky for this sprint. Let
   - Focus on performance, readability, and code style. 
   - Request changes if necessary and approve only when standards are met.
   
-- **Tech Lead:**
+- **Principal Developer/Engineering Manager:**
   - Ensure PR guidelines are followed. 
   - Monitor technical debt accumulation and prioritize refactoring when needed.
 
